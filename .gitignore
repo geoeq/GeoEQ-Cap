@@ -1,0 +1,6 @@
+# User-guide sources live in the private repository; only the PDF is published here
+manual/*.tex
+manual/figures/
+manual/README.md
+manual/*.aux
+manual/*.log
