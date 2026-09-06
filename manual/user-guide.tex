@@ -83,7 +83,6 @@
 {\large Version 1.0 --- tester build}\\[40mm]
 \begin{tabular}{@{}ll@{}}
 \textcolor{muted}{Applies to} & GeoEQ Cap 1.0.x for Windows 10 / 11\\
-\textcolor{muted}{Website} & \href{https://geoeq.dev}{geoeq.dev}\\
 \textcolor{muted}{Support} & \href{https://github.com/geoeq/GeoEQ-Cap/discussions}{github.com/geoeq/GeoEQ-Cap/discussions}\\
 \end{tabular}
 \vfill
@@ -138,7 +137,7 @@ If you only read one section, read Section~\ref{sec:concepts}. Ten minutes there
 Windows 10 or 11, 64-bit. About 400~MB of disk space. No other software is required.
 
 \subsection{Installing}
-Run the installer supplied to you and follow the prompts, or unzip the portable package to any folder and start \texttt{GeoEQ Cap.exe}. The installer adds a Start-menu entry and associates \texttt{.geq} project files with the application.
+Run the installer supplied to you and follow the prompts, or unzip the portable package to any folder and start \texttt{GeoEQ Cap.exe}. The installer adds a Start-menu entry and associates \texttt{.gec} project files with the application.
 
 \subsection{First start}
 The application opens with a complete two-layer example --- a strip footing on sand over clay with a water table --- so you can mesh, calculate and produce a report immediately. The \ui{Project properties} window appears first; press \ui{Skip} to keep the defaults and start drawing, or fill in the project identity now (it can be reopened at any time from \menu{File \textbar{} Project properties}).
@@ -499,7 +498,7 @@ Fill in the project identity (Section~\ref{sec:project}) before saving: the docu
 \section{Files, settings and updates}
 
 \subsection{Project files}
-Projects are saved as \texttt{.geq} files: a single readable text document containing the geometry, materials, layers, loads, mesh settings, analysis settings and project identity. The mesh and results are not stored; they are regenerated in seconds. Files are forward-compatible: a newer build opens older files, and an older build refuses a newer file with a clear message rather than misreading it.
+Projects are saved as \texttt{.gec} files: a single readable text document containing the geometry, materials, layers, loads, mesh settings, analysis settings and project identity. The mesh and results are not stored; they are regenerated in seconds. Files are forward-compatible: a newer build opens older files, and an older build refuses a newer file with a clear message rather than misreading it.
 
 \subsection{Application settings}
 Figure-export preferences and dismissed notices are stored per user; they never travel with a project file.
@@ -534,7 +533,7 @@ The application works fully offline. The only network access is the start-up upd
 As a tester, three things help most:
 
 \begin{enumerate}
-  \item \textbf{A case where the number surprised you.} Send the \texttt{.geq} file and say what you expected and why.
+  \item \textbf{A case where the number surprised you.} Send the \texttt{.gec} file and say what you expected and why.
   \item \textbf{Anything unclear} in the interface or the report --- a label, a warning, a figure.
   \item \textbf{What is missing} for the work you actually do.
 \end{enumerate}
@@ -591,6 +590,6 @@ This file was written by a newer version\ldots & Update the application from \me
 
 \vfill
 \begin{center}\small\color{muted}
-GeoEQ Cap User Guide, version 1.0 --- \href{https://geoeq.dev}{geoeq.dev}
+GeoEQ Cap User Guide, version 1.0 --- \href{https://github.com/geoeq/GeoEQ-Cap}{github.com/geoeq/GeoEQ-Cap}
 \end{center}
 \end{document}

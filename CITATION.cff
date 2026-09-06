@@ -9,7 +9,7 @@ authors:
     given-names: "Tong"
 version: "1.0.0"
 date-released: "2026-09-05"
-url: "https://geoeq.dev"
+url: "https://github.com/geoeq/GeoEQ-Cap"
 repository-code: "https://github.com/geoeq/GeoEQ-Cap"
 abstract: "Free bearing-capacity software for geotechnical engineers:
   finite element limit analysis with checked lower and upper bounds for

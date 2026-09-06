@@ -54,7 +54,7 @@ single number you have to take on faith.
 - ✅ **A report a reviewer can sign** — cover page, assumptions, a
   measured-versus-limit QA checklist, figures, and every solver note on
   record
-- ✅ **Your data stays yours** — plain `.geq` project files on your disk,
+- ✅ **Your data stays yours** — plain `.gec` project files on your disk,
   works fully offline
 
 ## Screenshots
@@ -219,7 +219,7 @@ one included), and the results are labelled that way in the application
 and the report.
 
 **Does it work offline?**
-Completely. Projects are plain `.geq` files on your disk; no account or
+Completely. Projects are plain `.gec` files on your disk; no account or
 internet needed. When you are online it checks for updates at startup.
 
 **Which design code does it follow?**
@@ -247,7 +247,7 @@ the project growing:
 ## Support & feature requests
 
 - **Found a bug?** [Start a discussion](https://github.com/geoeq/GeoEQ-Cap/discussions/new?category=q-a)
-  with what you did, what happened, and the `.geq` file or a screenshot
+  with what you did, what happened, and the `.gec` file or a screenshot
   if possible.
 - **Want a feature?** [Start a discussion](https://github.com/geoeq/GeoEQ-Cap/discussions/new?category=ideas)
   and tell us what you need and how you'd use it — upcoming versions
@@ -281,7 +281,7 @@ by [`CITATION.cff`](CITATION.cff).)
 
 ## About GeoEQ
 
-**[GeoEQ](https://geoeq.dev)** is a geotechnical software studio —
+**GeoEQ** is a geotechnical software studio —
 engineering tools that are fast, honest about their methods, and
 pleasant to use. GeoEQ Cap is the second desktop release, after
 [GeoEQ SPT Logs](https://github.com/geoeq/SPT-Borelogs).
@@ -289,7 +289,7 @@ pleasant to use. GeoEQ Cap is the second desktop release, after
 ---
 
 <p align="center">
-© GeoEQ · <a href="https://geoeq.dev">geoeq.dev</a> · This repository
+© GeoEQ · This repository
 distributes compiled builds; the source code is not published here.
 Redistribution of the binaries without permission is not allowed.
 </p>

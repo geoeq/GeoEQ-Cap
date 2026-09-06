@@ -47,5 +47,5 @@ First public release. Version 1.x is free.
   converged.
 - **Boundary conditions drawn on the model**, as in the FE packages you
   already know.
-- **Offline-first.** Projects are plain `.geq` files on your disk. No
+- **Offline-first.** Projects are plain `.gec` files on your disk. No
   account. Automatic update notification when online.
