@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="GeoEQ Cap — bearing capacity by finite element limit analysis">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16202c"/>
+      <stop offset="1" stop-color="#1f2a37"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <!-- pressure-bulb mark, from the application icon -->
+  <g transform="translate(80,60) scale(1.8)">
+    <path d="M17.00 33 C13.04 54.56 26.24 82.00 50 82.00 C73.76 82.00 86.96 54.56 83.00 33 Z" fill="#2450b8"/>
+    <path d="M22.61 33 C19.32 50.89 30.28 73.67 50 73.67 C69.72 73.67 80.68 50.89 77.39 33 Z" fill="#2b8ed8"/>
+    <path d="M28.22 33 C25.61 47.23 34.32 65.34 50 65.34 C65.68 65.34 74.39 47.23 71.78 33 Z" fill="#37b872"/>
+    <path d="M33.50 33 C31.52 43.78 38.12 57.50 50 57.50 C61.88 57.50 68.48 43.78 66.50 33 Z" fill="#e2c62d"/>
+    <path d="M38.78 33 C37.43 40.33 41.92 49.66 50 49.66 C58.08 49.66 62.57 40.33 61.22 33 Z" fill="#ee7d22"/>
+    <path d="M43.73 33 C42.98 37.10 45.49 42.31 50 42.31 C54.51 42.31 57.02 37.10 56.27 33 Z" fill="#cd2a20"/>
+    <line x1="8" y1="33" x2="92" y2="33" stroke="#eef1f4" stroke-width="4" stroke-linecap="round"/>
+    <rect x="36" y="20" width="28" height="13" rx="2" fill="#eef1f4"/>
+  </g>
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" fill="#eef1f4">
+    <text x="300" y="128" font-size="64" font-weight="700" letter-spacing="-1">GeoEQ Cap</text>
+    <text x="302" y="176" font-size="26" fill="#c9d3df">Bearing capacity by finite element limit analysis</text>
+    <text x="302" y="222" font-size="20" fill="#8fb3e0">Checked lower and upper bounds · strip and circular footings · layered soil · PDF report</text>
+  </g>
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#8a97a6">
+    <text x="302" y="262">Free for Windows · geoeq.dev</text>
+  </g>
+</svg>
