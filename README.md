@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="#download--install">Download</a> ·
-  <a href="manual.md">Manual</a> ·
+  <a href="manual/user-guide.pdf">User guide</a> ·
   <a href="#screenshots">Screenshots</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="#faq">FAQ</a> ·
@@ -166,7 +166,7 @@ matters:
 5. **Report** — *Output → Save report* writes the PDF.
    *Output → Compare* puts the interval beside the classical methods.
 
-Full guide: **[Manual](manual.md)**.
+Full guide: **[User guide (PDF)](manual/user-guide.pdf)**.
 
 ## Updates
 
@@ -252,7 +252,7 @@ the project growing:
 - **Want a feature?** [Start a discussion](https://github.com/geoeq/GeoEQ-Cap/discussions/new?category=ideas)
   and tell us what you need and how you'd use it — upcoming versions
   are planned from these discussions.
-- **Questions and how-tos** — check the **[manual](manual.md)** first,
+- **Questions and how-tos** — check the **[user guide](manual/user-guide.pdf)** first,
   then ask in [Discussions](https://github.com/geoeq/GeoEQ-Cap/discussions).
 
 ## Citation
